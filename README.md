@@ -10,3 +10,4 @@ SO THAT I can organize and plan my business
 ```
 # Links 
 [Video Walkthrough](https://drive.google.com/drive/folders/1W7DY-5Nw2Yv1whNDBxvmLdLp9vN-tD61?usp=sharing)
+[Github](https://github.com/seanrashby/Employee-Management-System)
